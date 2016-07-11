@@ -10,7 +10,7 @@ gist:
 
 ### Charles Kaminer
 
-gist:
+gist: https://gist.github.com/ckaminer/2ff9d23b5fad39fd0b8ffff7ab059d13
 
 ### Christopher Soden
 
