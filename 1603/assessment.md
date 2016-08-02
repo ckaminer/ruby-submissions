@@ -2,7 +2,7 @@
 
 ### Brian Sayler
 
-### Charles Kaminer
+### Charles Kaminer: https://github.com/ckaminer/module_3_assessment
 
 ### Christopher Soden
 
